@@ -110,5 +110,5 @@
     opacity: 0;
 }
 #check:checked ~ .sidebar_menu .btn_two i{
-    opacity: 0.9;
+    opacity: 1;
 }
